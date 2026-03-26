@@ -22,9 +22,9 @@ My name is Maxime Paris
 ---
 
 ## 🌱 What I’m currently learning / exploring
-- Vite, Express.js  
-- Android & Kotlin  
 - Hardware tinkering (Raspberry Pi, Arduino)
+- Android & Kotlin  
+- C and C++
 
 ---
 
